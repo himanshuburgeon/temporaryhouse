@@ -1,0 +1,7 @@
+<?php
+	//echo $this->request->base;
+        echo $this->request->here;
+	echo $this->request['name'];
+?>
+
+   

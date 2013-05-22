@@ -1,0 +1,1524 @@
+2013-05-03 09:05:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 09:05:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 09:05:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 09:05:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 09:29:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 09:29:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 12:58:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 12:58:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 12:58:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:05:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:05:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:06:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:06:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:06:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:06:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:06:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-03 13:06:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 10:13:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-06 10:13:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-07 09:55:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-07 09:55:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-07 14:24:36 Warning: Warning (2): preg_match() [<a href='function.preg-match'>function.preg-match</a>]: No ending delimiter '^' found in [/opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php, line 2985]
+Trace:
+preg_match - [internal], line ??
+Model::invalidFields() - CORE/Cake/Model/Model.php, line 2985
+Model::validates() - CORE/Cake/Model/Model.php, line 2863
+OwnersController::__validate() - APP/Controller/OwnersController.php, line 166
+OwnersController::add() - APP/Controller/OwnersController.php, line 77
+OwnersController::admin_add() - APP/Controller/OwnersController.php, line 65
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 107
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 89
+[main] - APP/webroot/index.php, line 96
+
+2013-05-07 14:24:36 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: No ending delimiter '^' found in [/opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php, line 2985]
+Trace:
+preg_match - [internal], line ??
+Model::invalidFields() - CORE/Cake/Model/Model.php, line 2985
+Model::validates() - CORE/Cake/Model/Model.php, line 2863
+OwnersController::__validate() - APP/Controller/OwnersController.php, line 166
+OwnersController::add() - APP/Controller/OwnersController.php, line 77
+OwnersController::admin_add() - APP/Controller/OwnersController.php, line 65
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 107
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 89
+[main] - APP/webroot/index.php, line 96
+
+2013-05-07 14:24:36 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: No ending delimiter '^' found in [/opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php, line 2985]
+Trace:
+preg_match - [internal], line ??
+Model::invalidFields() - CORE/Cake/Model/Model.php, line 2985
+Model::validates() - CORE/Cake/Model/Model.php, line 2863
+OwnersController::__validate() - APP/Controller/OwnersController.php, line 166
+OwnersController::add() - APP/Controller/OwnersController.php, line 77
+OwnersController::admin_add() - APP/Controller/OwnersController.php, line 65
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 107
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 89
+[main] - APP/webroot/index.php, line 96
+
+2013-05-08 14:14:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 12:13:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 12:13:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-15 18:04:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-15 18:04:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 09:51:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 09:51:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 10:03:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 10:03:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 11:17:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 13:51:01 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(197): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(53): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 13:51:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 13:53:36 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(197): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(53): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 13:53:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 13:53:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 13:54:04 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(197): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(53): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 13:54:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 13:54:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:17:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:17:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:18:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:18:06 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:19:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:19:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:21:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:21:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:23:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:23:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:25:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:25:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:26:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:26:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:51:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:51:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:51:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:51:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:51:59 Error: [MissingControllerException] Controller class ControllerController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:55:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:55:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:56:12 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 14:56:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:56:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:57:42 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 14:57:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 14:57:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:00:39 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'typology' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 15:00:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:00:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:19:15 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 15:19:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:19:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:19:34 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 15:19:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:19:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:22:53 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 15:22:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:22:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:23:44 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 15:23:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:23:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:24:40 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'owner_id' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(AppModel), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(194): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(54): PropertiesController->_add()
+#6 [internal function]: PropertiesController->admin_add()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-16 15:24:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 15:24:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 17:20:53 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Owner.property_id' in 'on clause'
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `Propert...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(645): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(1040): DboSource->fetchAll('SELECT `Propert...', false)
+#4 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(2458): DboSource->read(Object(Property), Array)
+#5 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#6 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(1023): PaginatorComponent->paginate('Property', Array, Array)
+#7 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(37): Controller->paginate('Property')
+#8 [internal function]: PropertiesController->admin_index()
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#11 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#12 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2013-05-16 17:20:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-16 17:20:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:03:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:03:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:04:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:04:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:12:12 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:12:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:19:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:30:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 15:31:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 16:08:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 17:20:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 17:43:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:06:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:07:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:09:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:09:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:10:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:10:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:17:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:24:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:29:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 18:50:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 19:07:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 19:41:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 19:49:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:06:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:16:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:17:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:18:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:20:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:21:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:23:11 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:31:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:31:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-17 20:31:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 09:40:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 09:42:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:41:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:41:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:43:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:43:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:46:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:47:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:50:12 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:50:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:56:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 10:56:28 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:22:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:23:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:48:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:48:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:48:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:49:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:57:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:59:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 11:59:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:04:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:04:41 Error: [MissingActionException] Action PagesController::admin_1() could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-05-20 12:11:02 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:11:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:13:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:17:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:18:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:20:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:20:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:21:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:21:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:22:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:22:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:22:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:23:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:24:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:35:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:36:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:36:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:37:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:37:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:38:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:38:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:39:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 12:59:25 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Page.parent_id' in 'field list'
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `Page`.`...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(645): DboSource->execute('SELECT `Page`.`...', Array, Array)
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(1040): DboSource->fetchAll('SELECT `Page`.`...', false)
+#4 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(2458): DboSource->read(Object(Page), Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PagesController.php(290): Model->find('all', Array)
+#6 [internal function]: PagesController->request_topmenu()
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Core/Object.php(90): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#11 /opt/lampp/htdocs/temporaryhouse/app/View/Elements/header.ctp(1): Object->requestAction(Array)
+#12 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(598): include('/opt/lampp/htdo...')
+#13 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(320): View->_render('/opt/lampp/htdo...', Array)
+#14 /opt/lampp/htdocs/temporaryhouse/app/View/Layouts/default.ctp(52): View->element('header')
+#15 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(598): include('/opt/lampp/htdo...')
+#16 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(414): View->_render('/opt/lampp/htdo...')
+#17 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(376): View->renderLayout('??', 'default')
+#18 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(898): View->render(NULL, NULL)
+#19 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#20 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#21 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#22 {main}
+2013-05-20 13:00:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:00:32 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:02:55 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:05:27 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:07:09 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:20:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:20:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:20:45 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:21:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 13:26:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:09:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:10:27 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:11:46 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:12:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:13:23 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:14:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:15:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:17:57 Error: [MissingControllerException] Controller class AboutUsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:20:09 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:24:46 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:24:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:24:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:27:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:32:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:32:32 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:33:15 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:36:34 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:36 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:39 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:42 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:44 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:47 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:38:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:40:19 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:40:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 14:47:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:15:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:15:24 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:24:56 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:25:08 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:25:20 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:25:47 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:25:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:26:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:26:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:30:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:32:17 Warning: Warning (2): Invalid argument supplied for foreach() in [/opt/lampp/htdocs/temporaryhouse/app/View/Layouts/default.ctp, line 39]
+Trace:
+include - APP/View/Layouts/default.ctp, line 39
+View::_render() - CORE/Cake/View/View.php, line 598
+View::renderLayout() - CORE/Cake/View/View.php, line 414
+View::render() - CORE/Cake/View/View.php, line 376
+Controller::render() - CORE/Cake/Controller/Controller.php, line 898
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 114
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 89
+[main] - APP/webroot/index.php, line 96
+
+2013-05-20 15:32:17 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:32:17 Warning: Warning (2): Invalid argument supplied for foreach() in [/opt/lampp/htdocs/temporaryhouse/app/View/Layouts/default.ctp, line 39]
+Trace:
+include - APP/View/Layouts/default.ctp, line 39
+View::_render() - CORE/Cake/View/View.php, line 598
+View::renderLayout() - CORE/Cake/View/View.php, line 414
+View::render() - CORE/Cake/View/View.php, line 376
+Controller::render() - CORE/Cake/Controller/Controller.php, line 898
+AppExceptionRenderer::missingController() - APP/Lib/Error/AppExceptionRenderer.php, line 8
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 170
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2013-05-20 15:33:43 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:35:29 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:35:36 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:35:44 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:35:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:35:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:37:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:37:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:40:09 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:40:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:41:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:41:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:41:17 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:41:19 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:41:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:12 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:16 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:39 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:44 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:46 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:49 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:42:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:43:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:43:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:49:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:49:29 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:52:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 15:54:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:14:48 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:17:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:23:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:23:53 Error: [MissingControllerException] Controller class PropertyController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:23:53 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:24:07 Error: [MissingControllerException] Controller class PropertyController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:24:08 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:24:16 Error: [MissingControllerException] Controller class PropertyController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:24:17 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:38:09 Error: [MissingActionException] Action PropertiesController::search() could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#2 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-05-20 16:38:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:54:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:54:17 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:56:07 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:00:35 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:05:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:10:43 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:16:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:17:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:28:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:28:35 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:28:40 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:29:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:33:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:36:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 17:36:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 18:04:36 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'start_date' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(PropertySpecialPrice), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(149): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(211): PropertiesController->_manage_special_prices()
+#6 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(68): PropertiesController->_add('1')
+#7 [internal function]: PropertiesController->admin_edit('1')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#11 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-20 18:04:36 Warning: Warning (2): Invalid argument supplied for foreach() in [/opt/lampp/htdocs/temporaryhouse/app/View/Layouts/default.ctp, line 55]
+Trace:
+include - APP/View/Layouts/default.ctp, line 55
+View::_render() - CORE/Cake/View/View.php, line 598
+View::renderLayout() - CORE/Cake/View/View.php, line 414
+View::render() - CORE/Cake/View/View.php, line 376
+Controller::render() - CORE/Cake/Controller/Controller.php, line 898
+ExceptionRenderer::_outputMessage() - CORE/Cake/Error/ExceptionRenderer.php, line 267
+ExceptionRenderer::error500() - CORE/Cake/Error/ExceptionRenderer.php, line 234
+ExceptionRenderer::render() - CORE/Cake/Error/ExceptionRenderer.php, line 170
+ErrorHandler::handleException() - CORE/Cake/Error/ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2013-05-20 18:04:36 Error: Fatal Error (256): [MissingActionException] Action PagesController::admin_request_topmenu() could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Core/Object.php(90): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#3 /opt/lampp/htdocs/temporaryhouse/app/View/Elements/header.ctp(1): Object->requestAction(Array)
+#4 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(598): include('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(320): View->_render('/opt/lampp/htdo...', Array)
+#6 /opt/lampp/htdocs/temporaryhouse/app/View/Layouts/default.ctp(69): View->element('header')
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(598): include('/opt/lampp/htdo...')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(414): View->_render('/opt/lampp/htdo...')
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/View/View.php(376): View->renderLayout('<h2>An Internal...', 'default')
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(898): View->render('error500', NULL)
+#11 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Error/ExceptionRenderer.php(267): Controller->render('error500')
+#12 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Error/ExceptionRenderer.php(234): ExceptionRenderer->_outputMessage('error500')
+#13 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Error/ExceptionRenderer.php(170): ExceptionRenderer->error500(Object(PDOException))
+#14 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Error/ErrorHandler.php(127): ExceptionRenderer->render(Array, Array)
+#15 [internal function]: ErrorHandler::handleException()
+#16 {main} in [/opt/lampp/htdocs/temporaryhouse/lib/Cake/Error/ErrorHandler.php, line 136]
+2013-05-20 18:05:22 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'start_date' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(PropertySpecialPrice), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(149): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(211): PropertiesController->_manage_special_prices()
+#6 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(68): PropertiesController->_add('1')
+#7 [internal function]: PropertiesController->admin_edit('1')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#11 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-20 18:06:11 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'start_date' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(PropertySpecialPrice), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(149): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(211): PropertiesController->_manage_special_prices()
+#6 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(68): PropertiesController->_add('1')
+#7 [internal function]: PropertiesController->admin_edit('1')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#11 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-20 18:09:05 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'start_date' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(PropertySpecialPrice), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(149): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(211): PropertiesController->_manage_special_prices()
+#6 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(68): PropertiesController->_add('1')
+#7 [internal function]: PropertiesController->admin_edit('1')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#11 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-20 18:10:27 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'start_date' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(PropertySpecialPrice), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(150): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(214): PropertiesController->_manage_special_prices()
+#6 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(68): PropertiesController->_add('1')
+#7 [internal function]: PropertiesController->admin_edit('1')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#11 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-20 18:14:33 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'start_date' cannot be null
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `pr...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `pr...')
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(1629): DboSource->create(Object(PropertySpecialPrice), Array, Array)
+#4 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(157): Model->save(Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(221): PropertiesController->_manage_special_prices()
+#6 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(68): PropertiesController->_add('1')
+#7 [internal function]: PropertiesController->admin_edit('1')
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#11 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-05-20 18:28:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 18:49:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 19:45:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 19:47:54 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 19:51:28 Error: [MissingControllerException] Controller class Function.getimagesizeController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 20:05:56 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 20:05:59 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 20:13:41 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 09:55:53 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 09:55:56 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 09:55:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 09:56:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:11:25 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:14:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:14:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:15:04 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:18:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:34:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:34:20 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:34:24 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:34:29 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:34:47 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 10:34:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:12:20 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:12:53 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:14:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:17:07 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:19:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:21:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:21:32 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:25:36 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:28:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:29:05 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 11:30:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:05:34 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:07:34 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:09:20 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:09:28 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:09:35 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:12:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:12:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:22:57 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:23:33 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:24:42 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:29:05 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:31:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 12:31:55 Warning: Warning (2): unlink(/opt/lampp/htdocs/temporaryhouse/app/webroot/img/property/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in [/opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php, line 255]
+Trace:
+unlink - [internal], line ??
+PropertiesController::_manage_image() - APP/Controller/PropertiesController.php, line 255
+PropertiesController::_add() - APP/Controller/PropertiesController.php, line 284
+PropertiesController::admin_edit() - APP/Controller/PropertiesController.php, line 83
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 473
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 107
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 89
+[main] - APP/webroot/index.php, line 96
+
+2013-05-21 12:32:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 13:04:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 13:46:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 13:47:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:11:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:11:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:14:08 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:17:59 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:21:18 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:51:25 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:54:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:57:47 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 14:58:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:02:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:03:35 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:03:41 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:07:02 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:07:52 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:08:00 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:12:17 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:13:20 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:18:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:20:54 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:41:06 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 15:46:51 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:01:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:03:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:05:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:07:13 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:07:22 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:08:32 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:08:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:09:29 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 16:15:11 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:31:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:31:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:31:24 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:32:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:33:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:33:04 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:34:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:34:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:34:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:34:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:34:59 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:35:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 17:35:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 19:24:59 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN = (Array)))' at line 1
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `Propert...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(645): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(1040): DboSource->fetchAll('SELECT `Propert...', false)
+#4 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(2458): DboSource->read(Object(Property), Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(257): Model->find('all', Array)
+#6 [internal function]: PropertiesController->search('mil', '_blank', '_blank')
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-21 19:28:04 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ('1') AND ((`Property`.`nation` like '%mil%') OR (`Property`.`city` like '%mil' at line 1
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `Propert...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(645): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(1040): DboSource->fetchAll('SELECT `Propert...', false)
+#4 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(2458): DboSource->read(Object(Property), Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(258): Model->find('all', Array)
+#6 [internal function]: PropertiesController->search('mil', '_blank', '_blank')
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-21 19:31:32 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN = (Array)))' at line 1
+#0 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `Propert...', Array)
+#2 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(645): DboSource->execute('SELECT `Propert...', Array, Array)
+#3 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Datasource/DboSource.php(1040): DboSource->fetchAll('SELECT `Propert...', false)
+#4 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Model/Model.php(2458): DboSource->read(Object(Property), Array)
+#5 /opt/lampp/htdocs/temporaryhouse/app/Controller/PropertiesController.php(258): Model->find('all', Array)
+#6 [internal function]: PropertiesController->search('mil', '_blank', '_blank')
+#7 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(PropertiesController), Array)
+#8 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/temporaryhouse/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PropertiesController), Object(CakeRequest), Object(CakeResponse))
+#10 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-22 12:21:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:35:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:35:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:36:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:37:09 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:37:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:39:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:40:11 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:40:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:41:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:42:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:42:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:48:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:49:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /opt/lampp/htdocs/temporaryhouse/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

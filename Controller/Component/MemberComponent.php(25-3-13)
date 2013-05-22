@@ -1,0 +1,126 @@
+<?php
+App::uses('Component', 'Controller');
+class MemberComponent extends Component{
+	public $member = array();
+	private $controller;
+	public $membertype='';
+	public $contractor_deny = array('home','view','logout','change_password');
+	public $homeowner_deny = array('home','view');
+	public $params = array() , $redirect = array();
+	
+	
+	
+	/*
+	public function initialize(){
+		echo "init";
+		
+	}
+	*/
+	public function startup($controller){
+		$this->controller = $controller;
+		self::_setvar();
+		self::_loadmember();
+		//self::_checkmemberexist();
+		self::_auth_pages();
+		
+		
+	}
+	
+	private function _auth_pages(){
+		if($this->params['controller']=="contractors" || $this->params['controller']=="accounts"){
+			if(in_array($this->params['action'],$this->contractor_deny) && $this->membertype!="contractor"){
+				$this->controller->redirect(array('controller'=>'pages','action'=>'home'));
+			}
+		}
+		
+		if($this->params['controller']=="homeowners"){
+			if(in_array($this->params['action'],$this->homeowner_deny) && $this->membertype!="homeowner"){
+				$this->controller->redirect(array('controller'=>'pages','action'=>'home'));
+			}
+		}
+	}
+	
+	private function _loadmember(){
+		$this->member = $this->controller->Session->read('Member.contractor');
+		
+		if(empty($this->member)){
+			$this->member = $this->controller->Session->read('Member.homeowner');
+			if(!empty($this->member)){
+				$this->membertype="homeowner";
+			}
+		}else{
+			$this->membertype="contractor";
+		}
+	}
+	
+	private function  _setvar(){
+		$this->params = $this->controller->request->params;
+		$this->redirect = array('controller'=>$this->params['controller'],'action'=>$this->params['action'],'pass'=>$this->params['pass']);
+	}
+	
+	public function login($data){
+		if(isset($data['Contractors']) && $data['Contractors']['type']=="contractor"){
+			$return_data = self::_contractor_login($data);
+			
+			if($return_data['success']==1){
+				$this->controller->redirect(array('controller'=>'contractors','action'=>'home'));
+			}else{
+				$this->controller->Session->setFlash($data['erro_msg'],'default','','error');
+			}
+		}
+		if(isset($data['HomeOwners']) && $data['HomeOwners']['type']=="homeowner"){
+			
+			$return_data = self::_homeowner_login($data);
+			if($return_data['success']==1){
+				$this->controller->redirect(array('controller'=>'homeowners','action'=>'home'));
+			}else{
+				$this->controller->Session->setFlash($return_data['error_msg'],'default','','error');
+			}
+		}
+	}
+	
+	private function _contractor_login($data){
+		$this->Contractor = ClassRegistry::init('Contractor');
+		
+		if($this->Contractor->countContractor($data)){
+			$contractor_detail = $this->Contractor->auth_contractor_login();
+			$this->controller->Session->delete('Member.homeowner');
+			$this->controller->Session->write('Member.contractor',$contractor_detail);
+			return array('success'=>1,'contractor'=>$contractor_detail,'error'=>0,'error_msg'=>'');
+		}else{
+			//constractor detail does not exist
+			return array('success'=>0,'contractor'=>array(),'error'=>1,'error_msg'=>'Contractor detail doesn\'t exits');
+		}
+		
+		
+	}
+	
+	private function _homeowner_login($data){
+		$this->HomeOwner = ClassRegistry::init('HomeOwner');
+		if($this->HomeOwner->countHomeOwner($data)){
+			$homeowners_detail = $this->HomeOwner->auth_homeowner_login();
+			
+			$this->controller->Session->delete('Member.contractor');
+			$this->controller->Session->write('Member.homeowner',$homeowners_detail);
+			return array('success'=>1,'contractor'=>$homeowners_detail,'error'=>0,'error_msg'=>'');
+		}else{
+			//constractor detail does not exist
+			return array('success'=>0,'contractor'=>array(),'error'=>1,'error_msg'=>'Home Owner detail doesn\'t exits');
+		}
+		
+	}
+	
+	
+	public function memberLogin(array $memberDetail){
+		$user=$memberDetail['username'];
+		$pass=$memberDetail['password'];
+		$tbl=ClassRegistry::init('User');
+		$u=$tbl->find('count',array('fields' => 'DISTINCT User.id','conditions'=>array('User.username'=>$user,'User.password2'=>$pass)));
+		
+		if($u==1){
+			$usr=$tbl->find('all',array('conditions'=>array('User.username'=>$user,'User.password2'=>$pass)));
+		}
+		echo "<pre>";print_r($usr);die;
+	}
+}
+?>

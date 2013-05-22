@@ -1,0 +1,56 @@
+<div class="header">
+	<?php echo $this->Html->image('logo.png'); ?>
+    	
+        <div class="social-icon"><!--social-icon-->
+            <ul>
+            	<li><p>Follow Us:</p></li>
+	        <li><?php echo $this->Html->link($this->Html->image('site_config/'.$ADMIN_DETAIL['fbimage'],array('alt'=>'')),$ADMIN_DETAIL['facebook'],array('escape'=>FALSE,'target'=>'_blank'));?></li>
+            	<li><?php echo $this->Html->link($this->Html->image('site_config/'.$ADMIN_DETAIL['twimage'],array('alt'=>'')),$ADMIN_DETAIL['twitter'],array('escape'=>FALSE,'target'=>'_blank'));?></li>
+                <li><?php echo $this->Html->link($this->Html->image('site_config/'.$ADMIN_DETAIL['youtubeimage'],array('alt'=>'')),$ADMIN_DETAIL['youtube'],array('escape'=>FALSE,'target'=>'_blank'));?></li>
+                
+            </ul>
+        </div><!--social-icon-end-->
+        <div class="clear"></div>
+        <div class="menu">
+        <a class="toggleMenu togglebg" href="#" style="display: inline-block; width: 93%;">Menu</a>
+<ul class="nav">
+      
+	   
+      <li  class="test"><?php echo $this->Html->link('Home',array('controller'=>'pages','action'=>'home'));?>
+      <?php $menulist=$this->requestAction('pages/request_topmenu/1'); ?>
+	    <?php if($menulist){ ?>
+	    <ul>
+	    <?php foreach($menulist as $menu){ ?>
+			<li><?php echo $this->Html->link($menu['Page']['name'],array('controller'=>'pages','action'=>'view',$menu['Page']['id'])); ?>			
+			</li>
+	    <?php } ?>
+	    </ul>
+	    <?php } ?>
+      </li>
+      <li  class="test"><?php echo $this->Html->link('About us',array('controller'=>'pages','action'=>'view',39));?>
+      <?php $menulist=$this->requestAction('pages/request_topmenu/39'); ?>
+	    <?php if($menulist){ ?>
+	    <ul>
+	    <?php foreach($menulist as $menu){ ?>
+			<li><?php echo $this->Html->link($menu['Page']['name'],array('controller'=>'pages','action'=>'view',$menu['Page']['id'])); ?>			
+			</li>
+	    <?php } ?>
+	    </ul>
+	    <?php } ?>
+      </li>
+      <?php $menulist=$this->requestAction('pages/request_topmenu/27'); ?>
+      <?php foreach($menulist as $menu){ ?>
+       <li  class="test"><?php echo $this->Html->link('Contact us',array('controller'=>'pages','action'=>'view',27));?>
+       </li>
+       <?php } ?>
+      
+      
+</ul>
+<?php echo $this->Html->script('jquery.min.js'); ?>
+<?php echo $this->Html->script('dropdown.js'); ?>
+
+</div>
+<div class="clear"></div>
+
+
+        </div>

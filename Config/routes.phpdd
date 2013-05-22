@@ -1,0 +1,24 @@
+<?php
+
+//Router::connect('/', array('controller' => 'pages', 'action' => 'view'));
+//Router::connect('/', array('controller' => 'pages', 'action' => 'home'));
+Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
+Router::connect('/cms/*', array('controller' => 'pages', 'action' => 'view'));
+//Router::connect('/', array('controller' => 'admin', 'action' => 'index'));
+//Router::connect('/', array('controller' => 'users', 'action' => 'index'));
+
+Router::connect('/admin', array('controller' => 'admin'));
+//Router::connect('/users', array('controller' => 'users'));
+//Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));
+
+
+   /* Router::connect(
+    '/:controller/:id',
+    array('action' => 'view'),
+    array('id' => '[0-9]+')
+    );*/
+
+require CAKE . 'Config' . DS . 'routes.php';
+
+?>
+

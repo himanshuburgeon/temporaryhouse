@@ -1,0 +1,531 @@
+msgid "view_website"
+
+msgstr "просмотреть веб-сайт" 
+msgid "logout"
+
+msgstr "выход из системы"
+msgid "dashboard"
+
+msgstr "приборная панель"
+msgid "content_manager"
+
+msgstr "контент-менеджер"
+msgid "owner_manager"
+
+msgstr "менеджер владельца"
+msgid "language_manager"
+
+msgstr "менеджер языков"
+msgid "add_sub_admin"
+
+msgstr "добавить суб Админ"
+msgid "manage_sub_admin"
+
+msgstr "Управление Sub Админ"
+msgid "message_manager"
+
+msgstr "менеджер сообщений"
+msgid "mail_format_manager"
+
+msgstr "Менеджер почтовых форматов"
+msgid "site_configuration"
+
+msgstr "Конфигурация сайта"
+msgid "change_password"
+
+msgstr "Изменить пароль"
+msgid "sub_admin_manager"
+
+msgstr "суб Админ менеджер"
+msgid "setting"
+
+msgstr "установка"
+msgid "publish"
+
+msgstr "публиковать"
+msgid "unpublish"
+
+msgstr "отменить публикацию"
+msgid "delete"
+
+msgstr "удалять"
+msgid "new"
+
+msgstr "новое"
+msgid "search"
+
+msgstr "поиск"
+msgid "view"
+
+msgstr "смотреть"
+msgid "title"
+
+msgstr "название"
+msgid "action"
+
+msgstr "действие"
+msgid "no_record_found"
+
+msgstr "Запись не найдена"
+msgid "user_manager"
+
+msgstr "абонентская система управления"
+msgid "name"
+
+msgstr "название"
+msgid "email"
+
+msgstr "E-mail"
+msgid "permission"
+
+msgstr "разрешение"
+msgid "update"
+
+msgstr "обновление"
+msgid "content"
+
+msgstr "содержание"
+msgid "cancel"
+
+msgstr "отменить"
+msgid "add"
+
+msgstr "добавлять"
+msgid "page"
+
+msgstr "страница"
+msgid "keywords"
+
+msgstr "Ключевые слова"
+msgid "description"
+
+msgstr "описание"
+msgid "long"
+
+msgstr "долго"
+msgid "or"
+
+msgstr "ИЛИ"
+msgid "user"
+
+msgstr "пользователь"
+msgid "first"
+
+msgstr "первый"
+msgid "last"
+
+msgstr "последний"
+msgid "contact"
+
+msgstr "связаться"
+msgid "number"
+
+msgstr "число"
+msgid "street"
+
+msgstr "улица"
+msgid "address"
+
+msgstr "адрес"
+msgid "city"
+
+msgstr "город"
+msgid "state"
+
+msgstr "государство"
+msgid "country"
+
+msgstr "страна"
+msgid "password"
+
+msgstr "пароль"
+msgid "current"
+
+msgstr "текущий"
+msgid "confirm"
+
+msgstr "подтверждать"
+msgid "site"
+
+msgstr "сайт"
+msgid "host"
+
+msgstr "хозяин"
+msgid "apartment"
+
+msgstr "квартира"
+msgid "listing"
+
+msgstr "список"
+msgid "limit"
+
+msgstr "ограничивать"
+msgid "default"
+
+msgstr "умолчание"
+msgid "link"
+
+msgstr "ссылка"
+msgid "Save"
+
+msgstr "экономить"
+msgid "Please"
+
+msgstr "пожалуйста"
+msgid "select"
+
+msgstr "выбирать"
+msgid "to"
+
+msgstr "для"
+msgid "owner"
+
+msgstr "владелец"
+msgid "surname"
+
+msgstr "фамилия"
+msgid "mobile"
+
+msgstr "мобильный"
+msgid "VAT"
+
+msgstr "НДС"
+msgid "tax"
+
+msgstr "налог"
+msgid "holder_c/c"
+
+msgstr "Держатель C / C"
+msgid "enter"
+
+msgstr "вводить"
+msgid "property_manager"
+
+msgstr "собственность менеджер"
+msgid "nation"
+
+msgstr "нация"
+msgid "sleeps"
+
+msgstr "Спальные места"
+msgid "typology"
+
+msgstr "типология"
+msgid "rooms"
+
+msgstr "Номера"
+msgid "bath"
+
+msgstr "ванна"
+msgid "service"
+
+msgstr "обслуживание"
+msgid "Bed"
+
+msgstr "кровать"
+msgid "Smoking_is_permitted"
+
+msgstr "Курение разрешено"
+msgid "air_conditioning"
+
+msgstr "кондиционер"
+msgid "heating"
+
+msgstr "Отопление"
+msgid "building_with_elevator"
+
+msgstr "здание с лифтом"
+msgid "Access_for_disabled"
+
+msgstr "Доступ для инвалидов"
+msgid "pool"
+
+msgstr "бассейн"
+msgid "parking_included"
+
+msgstr "парковка включена"
+msgid "porter"
+
+msgstr "портье"
+msgid "gym"
+
+msgstr "гимнастический зал"
+msgid "sauna"
+
+msgstr "сауна"
+msgid "whirlpool"
+
+msgstr "джакузи"
+msgid "fireplace"
+
+msgstr "камин"
+msgid "washing_machine"
+
+msgstr "стиральная машина"
+msgid "dryer"
+
+msgstr "сушилка"
+msgid "dishwasher"
+
+msgstr "посудомоечная машина"
+msgid "linens"
+
+msgstr "Постельное белье"
+msgid "minimum_stay"
+
+msgstr "Минимальный срок пребывания"
+msgid "maximum_stay"
+
+msgstr "максимальное время остановки"
+msgid "night"
+
+msgstr "ночь"
+msgid "nights"
+
+msgstr "ночами"
+msgid "week"
+
+msgstr "неделя"
+msgid "weeks"
+
+msgstr "недели"
+msgid "month"
+
+msgstr "месяц"
+msgid "months"
+
+msgstr "месяцев"
+msgid "year"
+
+msgstr "год"
+msgid "years"
+
+msgstr "Годы"
+msgid "availability"
+
+msgstr "наличие"
+msgid "furniture"
+
+msgstr "мебель"
+msgid "fair"
+
+msgstr "ярмарка"
+msgid "fashion"
+
+msgstr "мода"
+msgid "prices"
+
+msgstr "цены"
+msgid "management"
+
+msgstr "управление"
+msgid "deposit"
+
+msgstr "депозит"
+msgid "price"
+
+msgstr "цена"
+msgid "from"
+
+msgstr "от"
+msgid "for"
+
+msgstr "для"
+msgid "Owners_has_been_published_successfully"
+
+msgstr "Владельцы были опубликованы успешно"
+msgid "Owners_has_been_unpublished_successfully"
+
+msgstr "Владельцы были успешно неопубликованные"
+msgid "Owners_has_been_deleted_successfully"
+
+msgstr "Владельцы успешно удален"
+msgid "has_been"
+
+msgstr "была"
+msgid "updated"
+
+msgstr "обновленный"
+msgid "added"
+
+msgstr "добавленный"
+msgid "successfully"
+
+msgstr "успешно"
+msgid "languages"
+
+msgstr "языки"
+msgid "published"
+
+msgstr "опубликованный"
+msgid "unpublished"
+
+msgstr "неопубликованный"
+msgid "deleted"
+
+msgstr "удаленный"
+msgid "cleaning_costs"
+
+msgstr "затраты на очистку"
+msgid "message"
+
+msgstr "сообщение"
+msgid "mail_format"
+
+msgstr "почта формате"
+msgid "mail"
+
+msgstr "почта"
+msgid "subject"
+
+msgstr "тема"
+msgid "body"
+
+msgstr "тело"
+msgid "code"
+
+msgstr "код"          
+msgid "Owner name should be less than 30 character(s)"
+
+msgstr "Имя владельца должно быть не менее 30 символов (ы)"
+msgid "Please enter owner name"
+
+msgstr "Пожалуйста, введите имя владельца"
+msgid "Owner surname should be less than 30 character(s)"
+
+msgstr "Владелец фамилия должна быть не менее 30 символов (ы)"
+msgid "Please enter owner surname"
+
+msgstr "Пожалуйста, введите фамилию владельца"
+msgid "Owner mobile should be less than 20 character(s)"
+
+msgstr "Владелец мобильного должна быть не менее 20 символов (ы)"
+msgid "Please enter mobile number"
+
+msgstr "Пожалуйста, введите номер мобильного телефона"
+msgid "Please enter numbers only"
+
+msgstr "Введите только цифры"
+msgid "Owner email should be less than 30 character(s)"
+
+msgstr "Адрес электронной почты владельца должна быть не менее 30 символов (ы)"
+msgid "Please enter owner email"
+
+msgstr "Пожалуйста, введите e-mail владельца"
+msgid "Please enter valid email address"
+
+msgstr "Пожалуйста, введите действительный адрес электронной почты"
+msgid "Please enter owner address"
+
+msgstr "Пожалуйста, введите адрес владельца"
+msgid "City name should be less than 30 character(s)"
+
+msgstr "Название города должно быть не менее 30 символов (ы)"
+msgid "Please enter city name"
+
+msgstr "Пожалуйста, введите название города"
+msgid "Cap should be less than 30 character(s)"
+
+msgstr "Крышка должна быть не менее 30 символ (ы)"
+msgid "Please enter Cap"
+
+msgstr "Пожалуйста, введите Cap"
+msgid "Vat should be less than 12 character(s)"
+
+msgstr "НДС должна быть не менее 12 символов (ы)"
+msgid "Please enter vat"
+
+msgstr "Пожалуйста, введите НДС"
+msgid "Tax code should be less than 12 character(s)"
+
+msgstr "Налоговый кодекс должен быть не менее 12 символов (ы)"
+msgid "Please enter Tax code"
+
+msgstr "Пожалуйста, введите Налоговый кодекс"
+msgid "Iban should be less than 4 character(s)"
+
+msgstr "Iban должна быть не менее 4 символ (ы)"
+msgid "Please enter iban"
+
+msgstr "Пожалуйста, введите IBAN"
+msgid "Please enter Bic swift"
+
+msgstr "Пожалуйста, введите Bic быстрым"
+msgid "Please enter Holders c/c"
+
+msgstr "Пожалуйста, введите Держатели C / C"
+msgid "Please enter Notes"
+
+msgstr "Пожалуйста, введите Примечания"
+msgid "SPECIAL PRICES"
+
+msgstr "СПЕЦИАЛЬНЫЕ ЦЕНЫ"
+msgid "event"
+
+msgstr "событие"
+msgid "guest"
+
+msgstr "Гости"
+msgid "Please enter nation name"
+
+msgstr "Пожалуйста, введите имя нации"
+msgid "Please enter city name"
+
+msgstr "Пожалуйста, введите название города"
+msgid "Please select typology"
+
+msgstr "Пожалуйста, выберите типологию"
+msgid "Please select sleeps"
+
+msgstr "Пожалуйста, выберите спит"
+msgid "Please select Bed"
+
+msgstr "Пожалуйста, выберите с"
+msgid "Please enter description"
+
+msgstr "Пожалуйста, введите описание"
+msgid "Please select rooms"
+
+msgstr "Пожалуйста, выберите номера"
+msgid "Please enter Title"
+
+msgstr "Пожалуйста, введите название"
+msgid "Please select services"
+
+msgstr "Пожалуйста, выберите услуги"
+msgid "Please enter address"
+
+msgstr "Пожалуйста, введите адрес"
+msgid "Please select minimum stay"
+
+msgstr "Пожалуйста, выберите минимальное пребывание"
+msgid "Please select maximum stay"
+
+msgstr "Пожалуйста, выберите максимальный срок пребывания"
+msgid "Please Select Availability Of Furniture Fair "
+
+msgstr "Пожалуйста, выберите наличие мебельный салон "
+msgid "Please Select Availability Of Fashion Weeks "
+
+msgstr "Пожалуйста, выберите Доступность недель моды "
+msgid "Please Select Availability Of Burgo"
+
+msgstr "Выберите наличие Бурга"
+msgid "Please enter deposit"
+
+msgstr "Пожалуйста, введите депозит"
+msgid "Please enter price one night"
+
+msgstr "Пожалуйста, введите цена одна ночь"
+msgid "Please enter cleaning costs"
+
+msgstr "Пожалуйста, введите стоимость уборки"
+msgid "Please enter guest cost"
+
+msgstr "Пожалуйста, введите гостя стоимость"
+msgid "Please enter event name"
+
+msgstr "Пожалуйста, введите название события"
+msgid "Book Now"
+
+msgstr "Забронировать"
