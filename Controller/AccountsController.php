@@ -23,7 +23,9 @@ class AccountsController extends AppController{
 	}
         
         
+        
         function test(){
+            echo "sfsdfsdfsd";
             
         }
 	
