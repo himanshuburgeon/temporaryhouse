@@ -286,18 +286,14 @@ class PagesController extends AppController {
       if($menu['Page']['parentId']==0){
        $submenu = $this->request_topmenu($menu['Page']['id']);
       }
-      if($menu['Page']['url_key']=='prenotazioni'){
-      $link = $this->Session->read('Site.siteurl').'/search';
-      }else{
-      $link = $this->Session->read('Site.siteurl').'/cms/'.$menu['Page']['url_key'];
-      }
+      
      
       $all_menus[] = array(
           'id'=>$menu['Page']['id'],
           'title'=>$menu['Page']['pageTitle'],
           'parent'=>($menu['Page']['parentId']==0)?true:false,
-          'link'=>$link,
           'submenu'=>$submenu,
+          'url_key'=>$menu['Page']['url_key']
       );
     }
     
@@ -314,17 +310,13 @@ class PagesController extends AppController {
       $all_menus = array();
     foreach($menus as $menu){
      
-      if($menu['Page']['url_key']=='prenotazioni'){
-      $link = $this->Session->read('Site.siteurl').'/search';
-      }else{
-      $link = $this->Session->read('Site.siteurl').'/cms/'.$menu['Page']['url_key'];
-      }
+      
      
       $all_menus[] = array(
           'id'=>$menu['Page']['id'],
           'title'=>$menu['Page']['pageTitle'],
           'parent'=>($menu['Page']['parentId']==0)?true:false,
-          'link'=>$link
+          'url_key'=>$menu['Page']['url_key']
           
       );
     }

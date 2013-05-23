@@ -309,7 +309,7 @@ class PropertiesController extends AppController {
       
     }
     
-   $categories = self::_loadCategories();
+   $categories = self::_loadlocations();
      
    // echo '<pre>';print_r($properties);die;
    
@@ -395,7 +395,7 @@ class PropertiesController extends AppController {
             $thumb_name = false;
            // $thumb_name = $this->ImageResize->getThumbImage(WWW_ROOT."img/",WWW_ROOT."img/tmp/",$img_name,80,60);
            }
-         $this->request->data['Property']['image'] = $thumb_name;
+         $this->request->data['Property']['photo'] = $thumb_name;
       }
     } else {
       $this->request->data['PropertyPrice'] = array();
@@ -403,8 +403,8 @@ class PropertiesController extends AppController {
 
 
     $owners = self::_loadOwners();
-    $categories = self::_loadCategories();
-   
+    $categories = self::_loadlocations();
+    $typologies = self::_loadTypology();
     $breadcrumbs = array();
     $breadcrumbs[] = array(
         'title' => 'Back to Homepage',
@@ -429,6 +429,7 @@ class PropertiesController extends AppController {
           'name' => 'Add Property'
       );
     }
+    $this->set('typologies', $typologies);
     $this->set('categories', $categories);
     $this->set('breadcrumbs', $breadcrumbs);
     $this->set('owners', $owners);

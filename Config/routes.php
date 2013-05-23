@@ -25,8 +25,25 @@
  * its action called 'display', and we pass a param to select the view file
  * to use (in this case, /app/View/Pages/home.ctp)...
  */
+//App::uses('Page', 'Model');
+App::import('Model', 'Page');
+$Page = new Page();
+
+
+$cmsPages = $Page->find('all',array('group'=>'Page.url_key','conditions'=>array('NOT'=>array('Page.url_key'=>array('prenotazioni')))));
+//echo '<pre>';print_r($cmsPages); die;
+if ($cmsPages) {
+    foreach ($cmsPages as $key => $value) {
+
+        if ($value['Page']['url_key'] != '/') {
+            Router::connect('/' . $value['Page']['url_key'], array('controller' => 'pages', 'action' => 'view', $value['Page']['url_key']));
+        }
+    }
+}
+
+
 	Router::connect('/', array('controller' => 'pages', 'action' => 'home'));
-       Router::connect('/cms/:url_key', array('controller' => 'pages','action'=>'view'),array('pass'=>array('url_key')));
+       //Router::connect('/cms/:url_key', array('controller' => 'pages','action'=>'view'),array('pass'=>array('url_key')));
        Router::connect('/search/*', array('controller' => 'properties','action'=>'search'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.

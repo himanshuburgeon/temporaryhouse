@@ -45,6 +45,17 @@
     font-size: 13px;
     font-weight: normal;
   }
+  .ui-tabs .ui-tabs-panel{
+      padding:1em 0 !important;
+  }
+  .tab-switch{
+      position: relative;
+     top: 2px!important;
+  }
+  div.tab dl{
+      margin-top: 20px;
+      
+  }
 </style>
 
 <?= $this->element('admin/breadcrumbs'); ?>
@@ -84,12 +95,79 @@
 
   <div id="tabs">
     <ul>
+      <li><a href="#general">General</a></li>
       <li><a href="#tabs-1">Basic</a></li>
       <li><a href="#tabs-2">Services</a></li>
       <li><a href="#tabs-3">Availability</a></li>
       <li><a href="#tabs-4">Prices</a></li>
       <li><a href="#tabs-5">Special prices</a></li>
     </ul>
+      <div id="general">
+          <div class="article-container">
+              <header>
+                 
+                  <nav>
+                      <ul class="tab-switch">
+                          <?php $counter = 0; ?>
+                          <?php foreach($LANGUAGES as $code=> $language){ ?>
+                          <li>
+                              <a <?=($counter==0)?'class="default-tab current"':''?> rel="tooltip" href="#tab<?=$counter?>" original-title="<?=$language?>"><?=$language?></a>
+                          </li>
+                          <?php $counter++;?>
+                          <?php  } ?>
+                         
+                      </ul>
+
+                  </nav>
+              </header>
+              <section>
+                  <?php $counter = 0; ?>
+                  <?php foreach ($LANGUAGES as $code => $language) { ?>
+                      <div id="tab<?=$counter?>" class="tab<?=($counter == 0) ? ' default-tab' : '' ?>">
+
+                              <dl>
+                                  <dt>
+
+                                  <label><?=__('title')?> [<?=$language?>]<span style="color:red;">*</span></label>
+                                  </dt>
+                                  <dd> <?=$this->Form->text('PropertyDescriptiontitle.'.$code, array('class' => 'small ', 'size' => '45')); ?></dd>
+                              
+                                  
+                              
+                                  <dt>
+
+                                  <label><?=__('description')?> [<?=$language?>]<span style="color:red;">*</span></label>
+                                  </dt>
+                                  <dd>
+                                          <?php echo $this->Form->textarea('PropertyDescription.description.'.$code, array('class' => 'small ', 'size' => '45'));  ?>
+            <?=$this->Fck->load('PropertyDescription.description.'.$code);?>
+                                      
+
+
+                                        </dd>
+                              
+                                  <dt>
+
+                                  <label>meta<?=__('keyword')?><span style="color:red;">*</span></label>
+                                  </dt>
+                                  <dd> <?=$this->Form->textarea('PropertyDescription.meta_keyword.'.$code, array('class' => 'small ', 'size' => '45')); ?></dd>
+                              
+                                  <dt>
+
+                                  <label>meta<?=__('description')?><span style="color:red;">*</span></label>
+                                  </dt>
+                                  <dd> <?=$this->Form->textarea('PropertyDescription.meta_description.'.$code, array('class' => 'small ', 'size' => '45')); ?></dd>
+                              </dl>
+
+                      </div>
+                  
+                  <?php $counter++;?>
+                  <?php } ?>
+              </section>
+          </div>
+          
+     
+      </div>
     <div id="tabs-1">
       <dl>
         <dt>
@@ -106,15 +184,15 @@
         </dd>
         
         <dt>
-        <label><?php echo __('Category') ?>  <span style="color:red;">*</span></label>
+        <label><?php echo __('Location') ?>  <span style="color:red;">*</span></label>
         </dt>
 
-          <?php $error_class = ($this->Form->isFieldError('category_id')) ? 'invalid' : ''; ?>
+          <?php $error_class = ($this->Form->isFieldError('location_id')) ? 'invalid' : ''; ?>
         <dd>
-          <?php echo $this->Form->input('category_id', array('options' => $categories, 'div' => false, 'label' => false, 'lagend' => false, 'empty' => __('select'), 'class' => 'small ' . $error_class, 'error' => false)); ?>
+          <?php echo $this->Form->input('location_id', array('options' => $categories, 'div' => false, 'label' => false, 'lagend' => false, 'empty' => __('select'), 'class' => 'small ' . $error_class, 'error' => false)); ?>
 
-          <?php if ($this->Form->isFieldError('category_id')): ?>
-            <span class="error-message"><?php echo __($this->Form->error('category_id', null, array('wrap' => false))); ?></span>
+          <?php if ($this->Form->isFieldError('location_id')): ?>
+            <span class="error-message"><?php echo __($this->Form->error('location_id', null, array('wrap' => false))); ?></span>
 <?php endif; ?>
         </dd>
         
@@ -151,7 +229,7 @@
 
           <?php $error_class = ($this->Form->isFieldError('typology')) ? 'invalid' : ''; ?>
         <dd>
-          <?php echo $this->Form->input('typology', array('options' => array(1, 2, 3, 4, 5), 'div' => false, 'label' => false, 'lagend' => false, 'empty' => __('select'), 'class' => 'small ' . $error_class, 'error' => false)); ?>
+          <?php echo $this->Form->input('typology', array('options'=>$typologies, 'div' => false, 'label' => false, 'legend' => false, 'empty' => __('select'), 'class' => 'small ' . $error_class, 'error' => false)); ?>
 
           <?php if ($this->Form->isFieldError('typology')): ?>
             <span class="error-message"><?php echo __($this->Form->error('typology', null, array('wrap' => false))); ?></span>
@@ -173,31 +251,7 @@
 <?php endif; ?>
         </dd>
 
-        <dt>
-        <label><?php echo __('Bed') ?>  <span style="color:red;">*</span></label>
-        </dt>
-
-          <?php $error_class = ($this->Form->isFieldError('bed')) ? 'invalid' : ''; ?>
-        <dd>
-          <?php echo $this->Form->input('bed', array('options' => array(1, 2, 3, 4, 5, 6, 7, 8, 9, 10), 'div' => false, 'label' => false, 'lagend' => false, 'empty' => __('select'), 'class' => 'small ' . $error_class, 'error' => false)); ?>
-          <?php if ($this->Form->isFieldError('bed')): ?>
-            <span class="error-message"><?php echo __($this->Form->error('bed', null, array('wrap' => false))); ?></span>
-<?php endif; ?>
-        </dd>
-
-        <dt>
-        <label><?php echo __('description') ?>  <span style="color:red;">*</span></label>
-        </dt>
-
-          <?php $error_class = ($this->Form->isFieldError('description')) ? 'invalid' : ''; ?>
-        <dd>
-          <?php echo $this->Form->textarea('description', array('class' => 'small ' . $error_class, 'size' => '45')); ?>
-
-          <?php if ($this->Form->isFieldError('description')): ?>
-            <span class="error-message"><?php echo __($this->Form->error('description', null, array('wrap' => false))); ?></span>
-<?php endif; ?>
-        </dd>
-
+        
 
         <dt>
         <label><?php echo __('rooms') ?>  <span style="color:red;">*</span></label>
@@ -242,10 +296,23 @@
 
           <?php $error_class = ($this->Form->isFieldError('description')) ? 'invalid' : ''; ?>
         <dd>
-          <?php echo $this->Form->textarea('description', array('class' => 'small ' . $error_class, 'size' => '45')); ?>
+          <?php echo $this->Form->textarea('description', array('class' => 'small ' . $error_class, 'size' => '45'));  ?>
+            <?=$this->Fck->load('Property.description');?>
           <?php if ($this->Form->isFieldError('description')): ?>
             <span class="error-message"><?php echo __($this->Form->error('description', null, array('wrap' => false))); ?></span>
 <?php endif; ?>
+        </dd>
+        <dt>
+        
+        <label><?php echo __('Square Meter') ?>  <span style="color:red;">*</span></label>
+        </dt>
+        <?php $error_class = ($this->Form->isFieldError('square_meter')) ? 'invalid' : ''; ?>
+        <dd>
+          <?php echo $this->Form->text('square_meter', array('class' => 'small ' . $error_class, 'size' => '45')); ?>
+          <?php if ($this->Form->isFieldError('square_meter')): ?>
+            <span class="error-message"><?php echo __($this->Form->error('square_meter', null, array('wrap' => false))); ?></span>
+<?php endif; ?>
+            
         </dd>
         
         <dt>
@@ -258,7 +325,7 @@
           <?php if ($this->Form->isFieldError('Photo')): ?>
             <span class="error-message"><?php echo __($this->Form->error('photo', null, array('wrap' => false))); ?></span>
 <?php endif; ?>
-           <?php if($this->request->data['Property']['image']){?>
+           <?php if($this->request->data['Property']['image']!=''){?>
            <p> <?=$this->Html->image($this->request->data['Property']['image']);?></p>
            <?php } ?>
            

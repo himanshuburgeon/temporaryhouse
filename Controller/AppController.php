@@ -92,8 +92,8 @@ class AppController extends Controller {
     private function _loadLanguages() {
         $this->loadModel('Language');
         $languages = $this->Language->find('list', array('conditions' => array('Language.status' => '1'), 'fields' => array('Language.code', 'Language.name')));
-        
-        
+
+
         $this->Session->write('Languages', $languages);
     }
 
@@ -140,14 +140,41 @@ class AppController extends Controller {
         return $data;
     }
 
-    protected function _loadCategories() {
-        $this->loadModel('Category');
-        $categories = $this->Category->find('list', array('conditions' => array('Category.status' => '1'), 'fields' => array('Category.id', 'Category.name')));
+    protected function _loadlocations() {
+        $this->loadModel('Location');
+        $categories = $this->Location->find('list', array('conditions' => array('Location.status' => '1'), 'fields' => array('Location.id', 'Location.name')));
 
 
         return $categories;
     }
+    
+    protected function _loadTypology() {
+        $this->loadModel('Typology');
+        $critria = array();
+        $critria['fields'] =array('Typology.id', 'TypologyDescription.title');
+        $critria['joins'] = array(
+            array('table' => 'typology_descriptions',
+                'alias' => 'TypologyDescription',
+                'type' => 'INNER',
+                'conditions' => array('Typology.id = TypologyDescription.typology_id')
+        ));
+        $critria['conditions'] = array(
+            'Typology.status' => '1',
+            'TypologyDescription.language_code'=>$this->Session->read('Site.language')
+                );
+        $critria['group'] = array('Typology.id');
+        $typologies = $this->Typology->find('list', $critria);
+        
+        //$this->loadModel('TypologyDescription');
+        //$data['TypologyDescription']['id'] = 7;
+        //$data['TypologyDescription']['title'] = 'вилла';
+        //$this->TypologyDescription->create();
+        //$this->TypologyDescription->save($data);
+        //print_r($typologies);die;
 
+        return $typologies;
+        
+    }
 
 }
 

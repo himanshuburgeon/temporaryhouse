@@ -5,7 +5,7 @@
 	<div class="footer_inner_menu">
     	<ul>
             <?php foreach($menus as $menu){ ?>
-            <li><a href="<?=$menu['link']?>"><?=$menu['title']?></a></li> 
+            <li><?=$this->Html->link('<span>'.$menu['title'].'</span>',array('controller'=>'pages','action'=>'view',$menu['url_key']),array('escape'=>false,'class'=>($menu['parent'])?'parent':''))?></li> 
             <?php } ?>
         </ul>
     </div>
